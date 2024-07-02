@@ -48,11 +48,11 @@ Mega Blog is a full-fledged blog application built with React.js that offers the
 ## Deployment & Repository
 
 - **Live Demo:** https://mega-blog-nine-gamma.vercel.app
-- **Repository:** https://github.com/rajanjha9235/mega-blog
+- **Repository:**https://github.com/Vrighu/ApneVichar
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/rajanjha9235/mega-blog.git`
+1. Clone the repository: `git clone https://github.com/Vrighu/ApneVichar.git`
 
 2. Navigate to the project directory: `cd mega-blog`
 
@@ -77,19 +77,3 @@ Mega Blog is a full-fledged blog application built with React.js that offers the
   5. `VITE_APPWRITE_BUCKET_ID=""`
   6. `VITE_TINY_EDITOR_API_KEY=""`
 
-### Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
-### License
-This project is licensed under the Apache License - see the [LICENSE](https://github.com/rajanjha9235/mega-blog/blob/main/LICENSE) file for details.
-
-### Additional Notes
-
-- Consider adding unit tests and end-to-end tests for robust quality assurance.
-- Explore deploying the application to a production environment using a service like Vercel or Netlify.
-- Refer to the official documentation for React.js, React Hook Form, TinyMCE, Redux, react-redux, react-router-dom, and Appwrite for detailed usage and configuration guidance.
-- This README.md provides a general overview. For a complete understanding, delve into the source code available in the GitHub repository.
-
-## Disclaimer
-
-The information provided here serves as a starting point for understanding the Mega Blog app. While explanations are clear, it's recommended to explore the code itself for the most comprehensive grasp of implementation details.
